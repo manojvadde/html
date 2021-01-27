@@ -14,4 +14,4 @@ steps:
   inputs:
     rootFolderOrFile: '$(build.sourcesDirectory)'
     includeRootFolder: false
-- script: python -mhtmllib sample.html
+- script: python -mhtmllib add.html
